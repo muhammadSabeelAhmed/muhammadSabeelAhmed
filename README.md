@@ -2,9 +2,9 @@
 <img src="https://github.com/muhammadSabeelAhmed/muhammadSabeelAhmed/blob/main/sabeel-banner">
 
 
-<img align="right" alt="coding" width="400" src="https://github.com/Arif-miad/Arif-miad/blob/main/7f9b9c02-f363-4cf3-a5c6-21df76341230.jpg">
+<img align="right" alt="coding" width="400" src="[https://github.com/Arif-miad/Arif-miad/blob/main/7f9b9c02-f363-4cf3-a5c6-21df76341230.jpg](https://github.com/muhammadSabeelAhmed/muhammadSabeelAhmed/blob/main/sabeel-data-science.jpg)">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arif-miad&label=Profile%20views&color=0e75b6&style=flat" alt="arif-miad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadSabeelAhmed&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadSabeelAhmed" /> </p>
 
 
 
