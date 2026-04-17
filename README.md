@@ -1,81 +1,99 @@
+<!-- ======================= BANNER ======================= -->
 
-<img src="https://github.com/muhammadSabeelAhmed/muhammadSabeelAhmed/blob/main/sabeel-banner.png">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muhammadSabeelAhmed/muhammadSabeelAhmed/main/banner-2.png"/>
+</p>
 
+<h1 align="center">🚀 Muhammad Sabeel Ahmed</h1>
 
-<img align="right" alt="coding" width="400" src="https://github.com/muhammadSabeelAhmed/muhammadSabeelAhmed/blob/main/sabeel-data-science.jpg">
+<p align="center">
+<b>Senior Mobile Engineer (Android & Flutter) • AI/ML Engineer</b>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadSabeelAhmed&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadSabeelAhmed" /> </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0E3386&center=true&vCenter=true&width=700&lines=Android+%7C+Flutter+%7C+AI%2FML+Engineer;LLMs+%7C+RAG+%7C+GenAI+Systems;Building+Scalable+AI+Products;Clean+Architecture+%7C+System+Design" />
+</p>
 
-
-
-
-## 👋 Hi, I'm Sabeel
-
-**DS | ML |  | DL | Transformers | RAG | Tokenizations | Android | Compose | Kotlin | Java | Flutter | Dart**  
-
----
-
-## 🎓 Education
-
-M.S in Data Science from [Fast NUCES](https://www.nu.edu.pk/)
-
-M.Cs in Computer Science
-
-B.Sc. in Mathematical Sciences
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=muhammadSabeelAhmed&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/muhammadSabeelAhmed?style=social"/>
+<img src="https://img.shields.io/github/stars/muhammadSabeelAhmed?style=social"/>
+</p>
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsabeelahmed/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sabeel)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@muhammadsSabeelAhmed)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabeel04640@gmail.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msa_malik@rocketmail.com)
-[![Website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMf1syw5eWzriYZqqNjF82oT9aa-_rLpFobA&s)](https://www.clearcodelab.com)
+## 🧠 About Me
+
+```diff
++ Senior Android & Flutter Engineer with AI-first mindset
++ Building production-grade mobile apps with scalable architecture
++ Specializing in LLMs, RAG & AI-powered systems
++ Focused on performance, clean code & real-world impact
+```
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Universe
 
-### 🔹 Programming & Core
-![Kotlin](https://img.shields.io/badge/Kotlin-3670A0?style=for-the-badge&logo=kotlin&logoColor=ffdd54)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🧠 AI / GenAI
+<p align="center"> <img src="https://img.shields.io/badge/LLMs-OpenAI%20%7C%20Claude%20%7C%20Gemini-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-Advanced%20Retrieval-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vector%20DB-FAISS%20%7C%20Pinecone-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-Text%20Intelligence-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-red?style=for-the-badge"/> </p>
 
-### 🔹 Machine Learning & Deep Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
+### 📱 Mobile Engineering
+<p align="center"> <img src="https://img.shields.io/badge/Kotlin-Jetpack%20Compose-blue?style=for-the-badge&logo=kotlin"/> <img src="https://img.shields.io/badge/Flutter-Cross%20Platform-blue?style=for-the-badge&logo=flutter"/> <img src="https://img.shields.io/badge/Architecture-MVVM%20%7C%20MVI-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/Firebase-Auth%20%7C%20FCM%20%7C%20Firestore-orange?style=for-the-badge"/> </p>
 
-### 🔹 Visualization & EDA
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+### 🏗️ Backend & System Design
+<p align="center"> <img src="https://img.shields.io/badge/FastAPI-Production-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Microservices-Scalable-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Security-JWT%20%7C%20Auth-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Redis-Caching-yellow?style=for-the-badge"/> </p>
 
-### 🔹 Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-000000?style=for-the-badge&logo=openapiinitiative)
-
-### 🔹 MLOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes)
-![MLflow](https://img.shields.io/badge/MLflow-0A0A0A?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions)
-
-<!--### 🔹 Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud) -->
+### ☁️ Cloud • DevOps • MLOps
+<p align="center"> <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker"/> <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes"/> <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/MLflow-Tracking-black?style=for-the-badge"/> </p>
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=muhammadSabeelAhmed&theme=radical&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=muhammadSabeelAhmed&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadSabeelAhmed&layout=compact&theme=radical&hide_border=true)
+## 🚀 What I Build
+<p align="center">
+
+ 🧠 AI-powered Mobile Apps
+ 
+ 📊 Recommendation Systems
+ 
+ ⚡ ML Pipelines
+ 
+ ⚡ CI/CD Pipelines
+ 
+ 🤖 RAG Assistants
+ 
+ 🌐 Scalable Backend Systems
+
+</p>
 
 ---
+
+## 🌟 Featured Projects
+
+### 🤖 AI Baby Mood Predictor
+
+Predicts baby mood using ML + behavioral patterns
+
+### 📱 Pamper Rewards App
+
+Production mobile app with AI-driven features
+
+### 🧠 RAG Knowledge Assistant
+
+LLM chatbot using embeddings + vector search
+
+---
+
+## Useful Information
+
+### 📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhammadSabeelAhmed&show_icons=true&theme=radical"/> <img src="https://nirzak-streak-stats.vercel.app/?user=muhammadSabeelAhmed&theme=radical"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadSabeelAhmed&layout=compact&theme=radical"/> </p>
+
+### 🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+
+### 🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=muhammadSabeelAhmed&theme=radical&no-frame=true&row=1"/> </p>
+
+### 🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/muhammadsabeelahmed/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/> </a> <a href="https://medium.com/@sabeel"> <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium"/> </a> <a href="https://www.youtube.com/@muhammadsSabeelAhmed"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/> </a> <a href="https://www.clearcodelab.com"> <img src="https://img.shields.io/badge/Website-green?style=for-the-badge"/> </a> </p>
