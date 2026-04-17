@@ -11,15 +11,23 @@
 
 ## 👋 Hi, I'm Sabeel
 
-**DS | Machine Learning |  | Deep Learning | Transformers | RAG | Android | Compose | Kotlin | Java | Flutter | Dart**  
+**DS | ML |  | DL | Transformers | RAG | Tokenizations | Android | Compose | Kotlin | Java | Flutter | Dart**  
+
+---
+
+## 🎓 Education
+
 M.S in Data Science from [Fast NUCES](https://www.nu.edu.pk/)
+
+M.Cs in Computer Science
+
+B.Sc. in Mathematical Sciences
 
 ---
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsabeelahmed/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sabeel)
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/Arif_Miah952)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@muhammadsSabeelAhmed)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabeel04640@gmail.com)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msa_malik@rocketmail.com)
