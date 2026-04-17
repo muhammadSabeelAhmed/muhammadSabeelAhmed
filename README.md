@@ -1,4 +1,5 @@
-![image]([https://github.com/muhammadSabeelAhmed/muhammadSabeelAhmed/blob/main/Sabee-banner.png](https://github.com/muhammadSabeelAhmed/muhammadSabeelAhmed/blob/main/Sabee-banner.png))
+
+<img src="https://github.com/muhammadSabeelAhmed/muhammadSabeelAhmed/blob/main/sabeel-banner">
 
 
 <img align="right" alt="coding" width="400" src="https://github.com/Arif-miad/Arif-miad/blob/main/7f9b9c02-f363-4cf3-a5c6-21df76341230.jpg">
@@ -27,6 +28,7 @@ M.S in Data Science from [Fast NUCES](https://www.nu.edu.pk/)
 ## 💻 Tech Stack
 
 ### 🔹 Programming & Core
+![Kotlin] (https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kotlin_logo_%282016-2021%29.svg/1280px-Kotlin_logo_%282016-2021%29.svg.png)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -54,15 +56,15 @@ M.S in Data Science from [Fast NUCES](https://www.nu.edu.pk/)
 ![MLflow](https://img.shields.io/badge/MLflow-0A0A0A?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions)
 
-### 🔹 Cloud Platforms
+<!--### 🔹 Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud) -->
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Arif-miad&theme=radical&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Arif-miad&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arif-miad&layout=compact&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=muhammadSabeelAhmed&theme=radical&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=muhammadSabeelAhmed&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadSabeelAhmed&layout=compact&theme=radical&hide_border=true)
 
 ---
