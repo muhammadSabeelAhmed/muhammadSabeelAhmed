@@ -17,19 +17,22 @@ M.S in Data Science from [Fast NUCES](https://www.nu.edu.pk/)
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ArifMiah)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ArifMiah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsabeelahmed/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sabeel)
 [![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/Arif_Miah952)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@UCYjmBobHas2B9ujxXozMhnA)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifmiahcse@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@muhammadsSabeelAhmed)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabeel04640@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:msa_malik@rocketmail.com)
+[![Website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMf1syw5eWzriYZqqNjF82oT9aa-_rLpFobA&s)](https://www.clearcodelab.com)
 
 ---
 
 ## 💻 Tech Stack
 
 ### 🔹 Programming & Core
-![Kotlin] (https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kotlin_logo_%282016-2021%29.svg/1280px-Kotlin_logo_%282016-2021%29.svg.png)
+![Kotlin](https://img.shields.io/badge/Kotlin-3670A0?style=for-the-badge&logo=kotlin&logoColor=ffdd54)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🔹 Machine Learning & Deep Learning
